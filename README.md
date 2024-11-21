@@ -63,3 +63,20 @@ Achieved end-to-end automation of data ingestion, reducing manual intervention b
 Ensured high data reliability with stringent validation checks, increasing downstream analytics accuracy.
 Enabled efficient storage and accessibility of data, improving the productivity of the data science team.
 Delivered a robust solution that streamlined data operations and improved overall analytics workflows.
+
+
+ Title: Data Engineering Solutions for Yanki Ecommerce
+
+Overview: Yanki Ecommerce, an online store specializing in perfumes, sought to enhance operations and customer satisfaction by leveraging advanced data engineering techniques to analyze historical sales, customer, and inventory data. The project focused on creating efficient data pipelines for streamlined processing and actionable insights.
+Role: Data Engineer
+Project Description:
+Extracted historical sales data from multiple sources, including CSV files.
+Cleaned and preprocessed data to ensure consistency, accuracy, and completeness using Python libraries like Pandas and NumPy.
+Transformed data to prepare it for analysis and modeling, enabling deeper insights into sales trends and inventory management.
+Loaded processed data into a PostgreSQL database for efficient storage and easy access.
+Implemented version control using GitHub Desktop to manage changes, ensure codebase integrity, and facilitate collaboration.
+Results:
+Streamlined data processing reduced manual effort and improved data accuracy.
+Enabled the generation of actionable insights to optimize inventory and improve sales strategies.
+Established a scalable and maintainable data pipeline, boosting operational efficiency.
+Improved collaboration and code management through GitHub version control.
