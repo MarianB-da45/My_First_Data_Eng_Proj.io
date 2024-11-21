@@ -1,4 +1,19 @@
 # My_First_Data_Eng_Proj.io
+Title: Cloud-Based Data Analytics Solution for National Hospital
+
+Overview: National Hospital, a leading healthcare institution, aimed to leverage its vast medical records to enhance patient care and propel healthcare research. The project focused on implementing a robust cloud-based data architecture on Azure to support disease prediction, prevention, and improved patient experience.
+Role: Data Engineer
+Project Description:
+Designed a data architecture on Azure to process and analyze extensive medical datasets.
+Integrated Azure services, including Azure Data Lake for scalable data storage and Azure Data Factory for data ingestion and transformation.
+Developed pipelines to clean and preprocess data, ensuring consistency and accuracy for effective analysis.
+Utilized Azure Synapse Analytics for seamless querying and analysis, enabling the extraction of actionable insights from complex datasets.
+Implemented data security and compliance measures to protect sensitive patient information.
+Results:
+Delivered a scalable and efficient data processing system capable of handling the hospital's growing volume of medical records.
+Enabled predictive analytics and research, supporting disease prevention and improved patient care.
+Streamlined data querying and analysis, enhancing decision-making and research outcomes.
+Improved data governance and compliance with healthcare data security standards.
 Title: Juno Ecommerce Market Analysis
 
 Overview: Juno Ecommerce, a leading vendor on Jumia, undertook a data-driven initiative to enhance competitiveness in the online retail space. The project centered on automating the collection of product and pricing data for real-time market insights.
