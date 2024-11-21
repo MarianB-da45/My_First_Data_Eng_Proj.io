@@ -80,3 +80,18 @@ Streamlined data processing reduced manual effort and improved data accuracy.
 Enabled the generation of actionable insights to optimize inventory and improve sales strategies.
 Established a scalable and maintainable data pipeline, boosting operational efficiency.
 Improved collaboration and code management through GitHub version control.
+
+
+Title: Scalable Database Solution for Bonga eCommerce
+
+Overview: Bonga eCommerce aimed to transform its operations by implementing a robust and scalable database system to manage its growing inventory, customer base, and order volume. The project focused on creating an efficient database schema and enabling advanced data querying and analysis to support business decisions.
+Role: Data Engineer
+Project Description:
+Designed and implemented a scalable database schema tailored for e-commerce operations, organizing data for products, customers, orders, and order items.
+Developed SQL scripts to enable efficient data manipulation, including insertion, updates, deletions, and queries, ensuring the system could handle large-scale data transactions seamlessly.
+Created SQL queries for data analysis and reporting to provide insights into sales trends, customer behavior, and inventory management.
+Optimized database performance using indexing and normalization techniques to ensure scalability and reliability under heavy loads.
+Results:
+Delivered a scalable database system capable of handling the increasing demands of Bonga eCommerce's growing operations.
+Enabled detailed and efficient data analysis, improving decision-making for inventory management and sales strategies.
+Enhanced operational efficiency through streamlined data operations, improving query response times and system reliability.
