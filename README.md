@@ -47,3 +47,19 @@ Developed an efficient ETL pipeline, reducing manual effort and data processing 
 Delivered actionable monthly insights to support strategic decision-making.
 Established a modular and version-controlled codebase, enhancing maintainability and team collaboration.
 Automated daily updates to ensure timely data availability for analytics.
+
+
+Title: Data Retrieval and Storage Pipeline for GoalBet
+
+Overview: GoalBet, a leader in sports data analytics, processes large volumes of semi-structured data (CSV, JSON, Excel) from public websites and commercial providers. The goal of the project was to automate data retrieval, enhance data quality and reliability, and store it in PostgreSQL for use by the data science team.
+Role: Data Engineer
+Project Description:
+Designed an automated ETL pipeline to retrieve data from multiple sources, ensuring seamless integration of semi-structured formats (CSV, JSON, Excel).
+Implemented data validation and transformation steps to maintain high data quality and reliability.
+Configured a PostgreSQL database as the persistent store, optimizing it for efficient querying and integration with the data science team's workflows.
+Used Python libraries such as Pandas, Requests, and SQLAlchemy to build the pipeline, ensuring scalability and maintainability.
+Results:
+Achieved end-to-end automation of data ingestion, reducing manual intervention by 95%.
+Ensured high data reliability with stringent validation checks, increasing downstream analytics accuracy.
+Enabled efficient storage and accessibility of data, improving the productivity of the data science team.
+Delivered a robust solution that streamlined data operations and improved overall analytics workflows.
