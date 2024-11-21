@@ -14,6 +14,27 @@ Delivered a scalable and efficient data processing system capable of handling th
 Enabled predictive analytics and research, supporting disease prevention and improved patient care.
 Streamlined data querying and analysis, enhancing decision-making and research outcomes.
 Improved data governance and compliance with healthcare data security standards.
+
+
+
+Title: Data Engineering Framework for Ziko Logistics
+
+Overview: Ziko Logistics aimed to establish a cutting-edge data engineering framework to streamline operations, improve data quality, and support predictive analytics and decision-making. The initiative focused on automating data processes and leveraging scalable, secure technologies for storage and retrieval.
+Role: Data Engineer
+Project Description:
+Designed and implemented automated ETL pipelines using Python for data extraction, transformation, and loading.
+Leveraged SQL for querying and managing large datasets efficiently.
+Integrated Azure Data Lake Gen 2 for secure and scalable data storage, enabling seamless access and retrieval of critical logistics data.
+Employed GitHub for version control and collaborative code management, ensuring a robust and maintainable codebase.
+Configured Task Scheduler to automate the ETL process, optimizing operational efficiency and minimizing downtime.
+Results:
+Achieved significant reductions in data processing time, improving operational agility.
+Enhanced data quality and reliability, supporting better predictive analytics and decision-making.
+Established a scalable and secure data infrastructure, aligning with Ziko Logistics' growth and strategic objectives.
+Reduced manual intervention, increasing system reliability and minimizing errors.
+
+
+
 Title: Juno Ecommerce Market Analysis
 
 Overview: Juno Ecommerce, a leading vendor on Jumia, undertook a data-driven initiative to enhance competitiveness in the online retail space. The project centered on automating the collection of product and pricing data for real-time market insights.
